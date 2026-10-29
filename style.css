@@ -18,8 +18,8 @@ body {
 .card {
   flex: 1;
   height: 185px;
-  background-color: #b99ae5;
-  color: #444;
+  background-color: blueviolet;
+  color: black;
   font-size: 22px;
   border-radius: 6px;
   display: flex;
